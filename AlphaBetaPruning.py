@@ -46,13 +46,10 @@ def minimax(depth, nodeIndex, maximizingPlayer, scores, alpha, beta, targetDepth
 		return best
 	
 
-if __name__ == "__main__":
+# scores = list(map(int, input("Terminal values: ").split()))
+scores = [2,3,5,9,0,1,7,5]
+#fingding length of binary tree by log(x, base 2)
+treeDepth = math.log(len(scores), 2)
 
-	# Driver code
-    scores = list(map(int, input("Terminal values: ").split()))
-    #fingding length of binary tree by log(x, base 2)
-    treeDepth = math.log(len(scores), 2)
-
-    print("The optimal value is :", minimax(0, 0, True, scores, MIN, MAX, treeDepth))
-	
-    # This code is contributed by Rituraj Jain
+print("The optimal value is :", minimax(0, 0, True, scores, MIN, MAX, treeDepth))
+			

@@ -15,7 +15,8 @@ def minimax (curDepth, nodeIndex,maxTurn, scores, targetDepth):
 				    minimax(curDepth + 1, nodeIndex * 2 + 1, True, scores, targetDepth))
 	
 # Driver code
-scores = list(map(int, input("Terminal values: ").split()))
+# scores = list(map(int, input("Terminal values: ").split()))
+scores =[-1,4,2,6,-3,-5,0,7]
 #fingding length of binary tree by log(x, base 2)
 treeDepth = math.log(len(scores), 2)
 
