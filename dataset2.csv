@@ -1,0 +1,1001 @@
+Col1,Col2,Col3,Col4,Col5,Col6,Class
+6,Chevrolet,31,Male,679,76960,Rich
+8,BMW,51,Male,883,89304,Rich
+7,Honda,45,Male,911,77018,Upper Middle Class
+8,BMW,59,Female,1675,26160,Middle Class
+10,Chevrolet,44,Male,1040,82055,Middle Class
+4,Honda,19,Female,861,20755,Middle Class
+10,Toyota,45,Male,1393,83281,Upper Middle Class
+6,Honda,37,Female,1159,39451,Rich
+4,Honda,81,Male,789,87498,Upper Middle Class
+10,Toyota,39,Female,1794,62164,Upper Middle Class
+5,Toyota,51,Male,1870,78113,Middle Class
+3,BMW,95,Male,1149,29974,Rich
+4,Toyota,69,Male,1626,73812,Upper Middle Class
+3,Chevrolet,31,Male,869,27236,Rich
+2,BMW,59,Female,992,77310,Middle Class
+8,Toyota,52,Male,1845,51541,Rich
+7,BMW,99,Female,1371,27112,Rich
+4,Honda,71,Male,1202,48880,Rich
+3,Honda,26,Male,675,55333,Rich
+7,BMW,28,Female,1503,20516,Middle Class
+10,Chevrolet,91,Male,1157,23247,Middle Class
+5,Honda,49,Male,1796,12234,Rich
+5,Honda,34,Female,1531,98549,Middle Class
+2,BMW,23,Female,1473,53433,Upper Middle Class
+2,BMW,59,Male,891,12162,Rich
+2,Toyota,76,Male,949,87485,Upper Middle Class
+8,BMW,54,Male,707,36012,Upper Middle Class
+1,Toyota,44,Female,1105,70700,Upper Middle Class
+5,Chevrolet,83,Female,1049,47861,Middle Class
+2,Chevrolet,95,Female,530,20799,Middle Class
+8,Toyota,94,Male,761,10613,Rich
+5,Honda,54,Female,1710,44201,Upper Middle Class
+10,Honda,19,Male,666,10597,Rich
+2,Chevrolet,29,Male,554,52443,Upper Middle Class
+9,Chevrolet,37,Male,815,79257,Middle Class
+8,Honda,22,Male,1564,63141,Upper Middle Class
+8,BMW,28,Female,1179,44528,Middle Class
+6,Chevrolet,32,Female,911,33761,Rich
+3,Honda,41,Male,1645,57447,Rich
+2,Honda,73,Female,1381,37279,Rich
+2,BMW,70,Male,611,24310,Upper Middle Class
+5,Toyota,85,Female,826,12704,Upper Middle Class
+10,Toyota,65,Female,741,65847,Upper Middle Class
+1,Chevrolet,52,Male,663,43737,Middle Class
+9,Honda,26,Male,1505,65838,Rich
+5,Honda,86,Female,642,26037,Middle Class
+6,Honda,27,Male,705,57602,Upper Middle Class
+9,Chevrolet,90,Female,1184,15492,Upper Middle Class
+3,Chevrolet,83,Male,1797,35407,Middle Class
+7,Toyota,86,Female,671,99697,Rich
+2,Honda,31,Male,1591,30936,Upper Middle Class
+6,Chevrolet,23,Female,1692,72160,Upper Middle Class
+2,Toyota,79,Male,689,84911,Rich
+8,Toyota,66,Female,981,69966,Rich
+8,BMW,23,Female,752,12724,Middle Class
+3,Honda,67,Female,1055,86445,Upper Middle Class
+10,Honda,34,Female,1616,48114,Middle Class
+3,BMW,61,Female,1899,85826,Middle Class
+6,Toyota,30,Male,827,73957,Rich
+7,BMW,93,Female,1008,44005,Middle Class
+5,Toyota,57,Female,1062,65061,Rich
+9,Honda,37,Male,783,37610,Upper Middle Class
+3,Chevrolet,64,Male,1121,29869,Rich
+2,Chevrolet,54,Male,594,20426,Middle Class
+10,BMW,74,Female,754,67718,Rich
+10,BMW,83,Female,1170,79525,Upper Middle Class
+3,Toyota,69,Male,634,13504,Upper Middle Class
+7,Chevrolet,41,Female,1329,35866,Upper Middle Class
+8,BMW,67,Male,1379,99395,Upper Middle Class
+3,Honda,34,Male,929,60180,Rich
+8,Chevrolet,46,Female,1679,26805,Upper Middle Class
+2,Toyota,70,Female,579,99336,Upper Middle Class
+8,Honda,77,Male,1444,68289,Rich
+2,Chevrolet,24,Female,1137,83604,Rich
+1,Chevrolet,88,Female,951,97163,Middle Class
+9,BMW,30,Male,541,70548,Upper Middle Class
+8,Toyota,59,Male,539,30045,Middle Class
+7,Honda,80,Male,1540,56759,Middle Class
+9,Chevrolet,95,Male,1287,93242,Rich
+8,BMW,90,Male,1878,88000,Rich
+8,Chevrolet,37,Male,1223,76484,Rich
+2,Toyota,66,Male,1206,28980,Middle Class
+3,BMW,87,Female,1902,58220,Rich
+7,Chevrolet,23,Male,1008,62391,Upper Middle Class
+3,Chevrolet,22,Female,769,17933,Middle Class
+2,Chevrolet,97,Female,1576,47380,Middle Class
+3,BMW,54,Female,1469,86409,Upper Middle Class
+10,Chevrolet,79,Male,575,82454,Rich
+3,Toyota,52,Female,841,65482,Upper Middle Class
+7,Toyota,35,Female,1122,77117,Upper Middle Class
+5,Chevrolet,49,Male,1883,25563,Rich
+5,BMW,96,Male,1686,61724,Middle Class
+2,Honda,69,Male,992,54266,Upper Middle Class
+1,Toyota,49,Male,1691,13741,Middle Class
+6,Chevrolet,20,Male,939,72073,Upper Middle Class
+2,Honda,82,Male,1322,78243,Upper Middle Class
+9,Toyota,51,Female,1844,24517,Upper Middle Class
+6,Chevrolet,87,Male,1503,25951,Rich
+5,Toyota,36,Male,1099,26237,Rich
+8,BMW,50,Male,826,17125,Middle Class
+9,BMW,22,Female,573,57048,Upper Middle Class
+8,BMW,53,Female,1417,65090,Upper Middle Class
+6,Toyota,56,Female,512,33992,Middle Class
+8,Toyota,83,Female,1249,19699,Middle Class
+10,Honda,91,Female,1076,98589,Upper Middle Class
+5,BMW,25,Male,1015,25738,Rich
+2,BMW,74,Female,913,46375,Middle Class
+2,Toyota,90,Male,1599,90582,Upper Middle Class
+10,BMW,80,Male,1685,21304,Rich
+5,Toyota,44,Male,1954,67956,Upper Middle Class
+4,BMW,76,Female,1163,83561,Upper Middle Class
+7,BMW,45,Male,1980,96989,Upper Middle Class
+1,Honda,34,Male,1526,56731,Rich
+9,BMW,45,Female,1614,40886,Upper Middle Class
+2,Chevrolet,42,Female,1211,74010,Rich
+4,BMW,51,Male,1283,82168,Upper Middle Class
+6,Toyota,25,Female,1985,23638,Upper Middle Class
+5,Honda,26,Male,1148,79580,Middle Class
+4,Honda,77,Female,1347,95217,Middle Class
+10,Toyota,74,Female,952,26158,Rich
+2,BMW,89,Female,1852,97077,Upper Middle Class
+10,Honda,84,Female,775,67527,Rich
+10,Toyota,68,Female,1486,15741,Middle Class
+5,Honda,83,Male,1855,49938,Middle Class
+1,Honda,29,Male,1291,96342,Upper Middle Class
+10,BMW,45,Male,1634,34900,Middle Class
+10,Honda,53,Male,1661,75380,Rich
+8,Honda,32,Female,1922,31178,Middle Class
+5,Chevrolet,37,Female,1301,24226,Middle Class
+3,Toyota,59,Male,1936,60049,Rich
+1,BMW,83,Male,1321,82743,Upper Middle Class
+10,Honda,29,Female,1921,82576,Middle Class
+9,Honda,88,Male,529,45504,Middle Class
+9,Chevrolet,35,Male,835,89010,Rich
+9,Honda,73,Male,1452,87690,Rich
+7,Chevrolet,34,Female,900,55477,Middle Class
+9,Chevrolet,89,Male,1310,40646,Middle Class
+3,Toyota,91,Female,989,54697,Upper Middle Class
+6,Chevrolet,51,Female,1180,38756,Rich
+10,Honda,95,Male,1243,22468,Middle Class
+3,Honda,47,Female,1602,73554,Rich
+2,Honda,40,Male,1364,58948,Rich
+4,Toyota,30,Female,1640,49934,Middle Class
+7,BMW,96,Male,1585,13238,Upper Middle Class
+2,BMW,97,Male,1931,93601,Middle Class
+4,Honda,24,Male,1923,96703,Rich
+1,BMW,58,Male,569,22782,Rich
+3,Honda,50,Female,670,14655,Middle Class
+7,Toyota,98,Male,515,42835,Middle Class
+9,Honda,96,Male,637,45500,Upper Middle Class
+10,Chevrolet,88,Male,1686,73005,Rich
+3,Chevrolet,34,Male,918,71355,Rich
+3,Toyota,40,Male,1099,51352,Middle Class
+8,BMW,69,Male,1926,36462,Upper Middle Class
+6,Toyota,26,Male,707,42706,Rich
+10,BMW,40,Male,1768,11765,Rich
+8,BMW,69,Male,1161,85381,Upper Middle Class
+4,Toyota,20,Male,1385,25726,Upper Middle Class
+10,Toyota,50,Male,1026,23132,Rich
+1,Honda,32,Male,1800,74710,Upper Middle Class
+2,Toyota,67,Female,623,78524,Rich
+5,Chevrolet,89,Male,1420,71383,Middle Class
+10,Chevrolet,58,Male,1389,48923,Upper Middle Class
+7,BMW,39,Female,1435,92500,Upper Middle Class
+9,Honda,60,Male,950,55399,Rich
+6,BMW,36,Male,860,25103,Rich
+2,Toyota,77,Male,888,96075,Rich
+2,Toyota,77,Female,1906,71695,Upper Middle Class
+8,Honda,73,Female,1376,46731,Middle Class
+4,Toyota,52,Female,1933,47218,Upper Middle Class
+1,Chevrolet,66,Female,962,10849,Rich
+9,Toyota,63,Male,1732,38396,Middle Class
+8,Toyota,34,Female,1980,52743,Middle Class
+6,Chevrolet,44,Male,752,18679,Rich
+6,BMW,75,Male,1614,69774,Rich
+1,Chevrolet,56,Male,1765,33349,Middle Class
+9,BMW,87,Male,1815,33295,Upper Middle Class
+1,BMW,90,Female,901,30872,Rich
+6,Chevrolet,97,Female,1138,79574,Rich
+3,BMW,76,Male,897,27783,Rich
+1,Chevrolet,81,Female,1268,14132,Rich
+2,Chevrolet,36,Female,1501,98324,Rich
+4,BMW,59,Male,888,92723,Rich
+1,Chevrolet,61,Male,740,34856,Rich
+7,Toyota,71,Female,665,93472,Upper Middle Class
+4,BMW,70,Male,1003,44889,Upper Middle Class
+2,Chevrolet,51,Female,1155,25991,Upper Middle Class
+1,Toyota,83,Female,1718,97431,Middle Class
+3,Honda,19,Male,678,36352,Upper Middle Class
+5,BMW,45,Female,623,93818,Upper Middle Class
+8,Honda,89,Female,1399,20642,Upper Middle Class
+6,Honda,63,Female,831,57631,Middle Class
+10,Toyota,60,Female,1152,18002,Middle Class
+6,Chevrolet,81,Female,854,75925,Middle Class
+6,Chevrolet,59,Male,568,85904,Upper Middle Class
+5,Honda,36,Female,1324,65420,Rich
+6,BMW,29,Male,1278,27232,Middle Class
+8,Honda,64,Male,1118,68983,Rich
+10,BMW,27,Female,1368,45040,Middle Class
+4,Honda,28,Female,1258,30578,Upper Middle Class
+8,BMW,99,Male,803,46416,Rich
+6,Honda,84,Female,881,95438,Upper Middle Class
+4,BMW,47,Female,1936,99851,Rich
+7,Chevrolet,79,Male,755,57773,Upper Middle Class
+5,BMW,37,Male,1316,11436,Upper Middle Class
+8,BMW,92,Male,1010,40524,Upper Middle Class
+2,BMW,89,Female,722,48905,Middle Class
+10,Honda,24,Female,1681,74535,Upper Middle Class
+6,Honda,55,Female,856,84580,Middle Class
+1,Honda,46,Female,1958,25023,Middle Class
+4,Toyota,53,Female,1544,15476,Rich
+2,Chevrolet,57,Female,1579,23132,Rich
+8,Chevrolet,72,Male,843,45073,Rich
+10,Chevrolet,84,Male,1725,28697,Upper Middle Class
+10,Toyota,87,Female,1202,40586,Rich
+1,Toyota,83,Male,1554,22609,Middle Class
+3,BMW,36,Female,535,62510,Upper Middle Class
+3,BMW,26,Male,1535,97083,Middle Class
+2,Honda,29,Male,783,21836,Middle Class
+4,Toyota,64,Female,894,76420,Middle Class
+5,BMW,40,Female,1222,88863,Rich
+2,BMW,79,Male,1075,49663,Upper Middle Class
+8,Honda,37,Male,928,29980,Upper Middle Class
+5,Honda,98,Male,1473,82769,Rich
+3,Chevrolet,18,Male,1243,41879,Rich
+8,Chevrolet,99,Male,950,78000,Middle Class
+3,Toyota,32,Male,1767,18814,Rich
+7,Honda,49,Male,1328,11674,Upper Middle Class
+7,Honda,96,Male,1835,95192,Upper Middle Class
+2,Chevrolet,92,Female,1489,34669,Middle Class
+7,BMW,84,Female,989,49724,Rich
+2,Honda,48,Male,1694,63217,Middle Class
+8,Toyota,40,Male,1746,73568,Rich
+3,BMW,64,Female,1883,18074,Middle Class
+8,BMW,95,Male,1627,59056,Upper Middle Class
+7,Chevrolet,59,Male,1845,94636,Upper Middle Class
+4,BMW,45,Male,1339,35392,Middle Class
+8,BMW,79,Male,1376,89798,Upper Middle Class
+9,Toyota,35,Female,1688,62352,Rich
+8,BMW,62,Female,1155,33125,Middle Class
+1,Honda,83,Male,844,95396,Middle Class
+2,Chevrolet,20,Female,593,62818,Upper Middle Class
+6,BMW,56,Male,1341,44414,Upper Middle Class
+3,Honda,49,Female,1387,32416,Middle Class
+9,Honda,64,Male,793,55661,Rich
+8,BMW,37,Female,1347,62336,Middle Class
+1,Chevrolet,22,Female,1872,53219,Middle Class
+2,BMW,69,Male,1078,53736,Middle Class
+8,Chevrolet,85,Male,651,16384,Rich
+2,Honda,45,Male,1480,67183,Upper Middle Class
+9,Honda,85,Female,1567,62931,Rich
+5,Toyota,33,Male,687,59079,Rich
+4,Chevrolet,75,Female,963,12902,Upper Middle Class
+3,Toyota,57,Male,801,41329,Middle Class
+6,Toyota,41,Female,1876,78794,Upper Middle Class
+8,Chevrolet,58,Male,871,52957,Rich
+6,Honda,82,Female,517,79054,Middle Class
+9,BMW,55,Male,573,92953,Upper Middle Class
+10,BMW,38,Male,1899,79365,Upper Middle Class
+6,Honda,93,Female,1529,88549,Middle Class
+6,Chevrolet,61,Female,1741,92163,Upper Middle Class
+7,Toyota,82,Female,1385,20513,Upper Middle Class
+6,Chevrolet,94,Female,917,88497,Upper Middle Class
+8,Toyota,28,Male,1367,19537,Upper Middle Class
+8,Honda,72,Female,871,99452,Middle Class
+5,Toyota,24,Male,1316,30452,Upper Middle Class
+8,BMW,31,Female,873,45835,Middle Class
+8,BMW,30,Female,1475,69255,Rich
+6,Toyota,38,Male,1912,45951,Upper Middle Class
+7,Honda,61,Male,1170,58515,Middle Class
+8,Chevrolet,29,Female,897,11748,Middle Class
+6,BMW,82,Female,1330,71084,Rich
+3,Chevrolet,55,Male,660,79697,Rich
+3,Honda,83,Female,1265,67927,Middle Class
+5,Toyota,86,Male,1365,75673,Upper Middle Class
+8,Toyota,66,Male,777,41818,Rich
+6,Honda,40,Female,734,34420,Upper Middle Class
+5,BMW,54,Female,1097,45018,Middle Class
+7,Toyota,42,Female,860,67745,Rich
+1,Toyota,23,Male,1056,50153,Middle Class
+8,BMW,58,Female,834,99655,Middle Class
+3,Honda,68,Female,1954,35487,Upper Middle Class
+5,BMW,43,Male,1515,20344,Rich
+3,BMW,67,Male,1234,15673,Upper Middle Class
+8,Honda,85,Female,1441,15434,Middle Class
+5,Honda,18,Female,667,11397,Rich
+4,Toyota,66,Female,907,93070,Upper Middle Class
+10,BMW,49,Female,837,75465,Rich
+9,Toyota,32,Female,1796,24915,Rich
+10,Chevrolet,69,Female,1216,68528,Rich
+2,Toyota,83,Male,1615,88109,Middle Class
+4,Honda,30,Female,1446,62228,Middle Class
+3,BMW,90,Female,1981,35043,Upper Middle Class
+10,BMW,81,Male,1437,73121,Rich
+6,Toyota,23,Male,585,66887,Rich
+6,Chevrolet,68,Male,1900,40684,Upper Middle Class
+8,Toyota,31,Female,1093,31716,Upper Middle Class
+10,Toyota,26,Female,790,17983,Upper Middle Class
+9,Toyota,22,Male,771,67085,Upper Middle Class
+4,Chevrolet,36,Male,870,24969,Middle Class
+5,Chevrolet,19,Male,1834,67336,Middle Class
+7,Chevrolet,74,Female,914,45962,Rich
+7,Chevrolet,49,Female,1139,23385,Rich
+10,Honda,59,Female,1210,92075,Middle Class
+10,Honda,100,Female,1009,88221,Rich
+9,Toyota,66,Male,1124,78580,Rich
+4,Chevrolet,79,Male,1588,39073,Rich
+8,Toyota,29,Male,683,38408,Upper Middle Class
+7,BMW,91,Male,1281,74363,Middle Class
+6,Honda,28,Female,1483,75404,Upper Middle Class
+8,Honda,80,Male,1024,92392,Middle Class
+7,Toyota,38,Female,1303,60312,Upper Middle Class
+5,BMW,64,Female,1611,71960,Rich
+5,Toyota,39,Female,1555,21620,Rich
+8,Chevrolet,90,Male,1274,96515,Middle Class
+9,Toyota,25,Male,1366,32746,Upper Middle Class
+6,Honda,64,Male,1714,84642,Middle Class
+3,Chevrolet,29,Female,1783,98980,Rich
+9,Honda,19,Female,1717,10044,Middle Class
+9,BMW,50,Female,558,57603,Rich
+4,Toyota,81,Female,931,94665,Rich
+4,Chevrolet,38,Female,574,31368,Middle Class
+1,Toyota,43,Male,1062,90000,Middle Class
+9,Toyota,76,Female,520,63338,Upper Middle Class
+3,Toyota,50,Male,1942,32275,Upper Middle Class
+4,BMW,53,Female,1947,62496,Upper Middle Class
+8,Chevrolet,90,Female,1103,53177,Upper Middle Class
+10,BMW,95,Male,1859,54708,Middle Class
+7,BMW,41,Female,981,32998,Rich
+3,Chevrolet,19,Male,998,95699,Upper Middle Class
+2,Toyota,84,Male,1015,38557,Rich
+7,Toyota,30,Female,1086,24465,Rich
+4,Honda,93,Female,535,86982,Upper Middle Class
+6,Honda,22,Male,1301,16053,Upper Middle Class
+9,Honda,27,Female,1388,87551,Rich
+5,BMW,34,Female,1735,49190,Rich
+1,Toyota,36,Female,1290,39124,Middle Class
+3,BMW,91,Female,844,62731,Rich
+2,BMW,82,Female,1393,64086,Upper Middle Class
+5,Toyota,67,Male,1849,71517,Rich
+6,Chevrolet,39,Male,979,95309,Middle Class
+9,Toyota,89,Male,1138,65969,Rich
+6,Honda,79,Male,769,98960,Middle Class
+2,Chevrolet,85,Male,1620,57290,Middle Class
+1,Toyota,64,Male,1433,63512,Middle Class
+1,Chevrolet,83,Male,567,51450,Upper Middle Class
+7,Honda,19,Female,1589,11167,Middle Class
+1,Honda,74,Female,1454,12276,Upper Middle Class
+7,Chevrolet,59,Male,1702,28420,Rich
+6,BMW,47,Male,516,79857,Rich
+2,Chevrolet,31,Female,508,52677,Upper Middle Class
+6,Honda,100,Male,1769,36049,Rich
+1,BMW,81,Female,791,60822,Upper Middle Class
+5,Chevrolet,46,Male,934,15013,Rich
+1,Honda,97,Male,1850,92447,Middle Class
+4,BMW,34,Male,1996,82081,Upper Middle Class
+6,Toyota,36,Female,587,13921,Middle Class
+2,BMW,28,Male,1522,48343,Rich
+9,Chevrolet,77,Male,1440,80301,Rich
+1,Toyota,83,Male,1272,65379,Upper Middle Class
+3,Honda,73,Female,1420,42075,Upper Middle Class
+9,Chevrolet,72,Female,1862,81282,Middle Class
+1,BMW,23,Female,1055,21691,Middle Class
+6,Toyota,57,Male,542,81279,Upper Middle Class
+2,Honda,46,Female,1384,16547,Rich
+3,Toyota,46,Male,1529,89899,Rich
+9,Chevrolet,85,Male,856,92659,Upper Middle Class
+9,Chevrolet,27,Male,773,98853,Upper Middle Class
+2,Toyota,84,Female,672,29180,Upper Middle Class
+3,Chevrolet,95,Male,1319,71676,Upper Middle Class
+9,Chevrolet,62,Male,1533,17615,Rich
+1,Chevrolet,23,Male,1972,64360,Upper Middle Class
+3,BMW,60,Male,1365,44244,Rich
+10,Chevrolet,37,Male,969,52715,Rich
+4,Toyota,97,Female,1308,37831,Rich
+4,Chevrolet,90,Male,1939,66826,Rich
+3,Honda,39,Female,688,44475,Upper Middle Class
+10,Chevrolet,48,Female,977,13100,Rich
+3,BMW,90,Female,1792,98173,Middle Class
+7,Chevrolet,75,Male,1445,18135,Rich
+8,Toyota,34,Male,1416,90941,Upper Middle Class
+4,BMW,78,Male,1166,45778,Rich
+1,BMW,49,Male,1397,82698,Upper Middle Class
+2,BMW,69,Female,1397,33922,Rich
+6,Chevrolet,90,Female,1796,34172,Upper Middle Class
+8,BMW,61,Male,1262,69112,Upper Middle Class
+8,Honda,100,Male,1631,85280,Rich
+6,Honda,68,Male,631,75510,Upper Middle Class
+2,Toyota,41,Male,1227,37812,Middle Class
+6,Toyota,86,Female,1749,79510,Upper Middle Class
+10,Honda,80,Female,1935,46139,Rich
+5,Chevrolet,56,Female,1625,81553,Rich
+5,Chevrolet,75,Male,1326,48022,Rich
+10,Honda,70,Male,1020,54139,Rich
+8,Honda,50,Male,1263,75595,Upper Middle Class
+9,Chevrolet,49,Female,1527,95526,Upper Middle Class
+4,Chevrolet,40,Female,1200,54135,Upper Middle Class
+9,Honda,62,Male,1179,66185,Middle Class
+9,BMW,60,Female,1301,96970,Middle Class
+5,Chevrolet,47,Female,556,53285,Middle Class
+10,Honda,65,Male,638,34380,Upper Middle Class
+4,Chevrolet,48,Male,671,47433,Middle Class
+4,Chevrolet,85,Male,1531,17259,Upper Middle Class
+1,Toyota,70,Female,1340,44070,Upper Middle Class
+5,Chevrolet,96,Male,952,13889,Upper Middle Class
+8,Toyota,92,Female,500,83631,Rich
+6,Honda,48,Male,1514,71529,Rich
+4,Chevrolet,42,Female,1896,47700,Rich
+5,Toyota,37,Female,678,87457,Rich
+9,Chevrolet,20,Male,513,68375,Rich
+1,Honda,72,Male,1314,46646,Rich
+2,Honda,91,Female,1428,83665,Rich
+9,BMW,26,Male,856,15071,Upper Middle Class
+1,BMW,53,Male,718,95058,Middle Class
+1,Honda,68,Female,630,31633,Rich
+4,Honda,51,Male,1212,67662,Middle Class
+2,Toyota,74,Female,643,75992,Rich
+8,Honda,85,Female,677,69083,Upper Middle Class
+7,Toyota,96,Female,1929,80454,Middle Class
+3,Chevrolet,67,Female,1916,79249,Upper Middle Class
+9,Honda,97,Female,734,87752,Rich
+2,Toyota,73,Male,1423,24275,Middle Class
+4,BMW,50,Female,1166,48040,Middle Class
+1,Chevrolet,74,Male,1765,98841,Rich
+2,Honda,19,Male,1222,37850,Rich
+2,BMW,95,Female,571,74215,Rich
+4,Honda,41,Female,863,29741,Rich
+1,Chevrolet,99,Female,1470,76955,Middle Class
+9,Chevrolet,83,Female,1518,73265,Rich
+1,Toyota,67,Female,659,57289,Upper Middle Class
+1,Toyota,36,Female,1249,12757,Upper Middle Class
+8,Toyota,19,Female,1055,84336,Middle Class
+6,Chevrolet,49,Female,972,57050,Rich
+9,Honda,93,Male,924,90539,Upper Middle Class
+2,Honda,47,Female,1758,19571,Rich
+5,BMW,47,Male,501,85460,Middle Class
+1,Honda,63,Female,1737,48188,Rich
+5,Chevrolet,42,Male,959,89294,Upper Middle Class
+7,Chevrolet,53,Female,1669,96569,Rich
+9,Chevrolet,23,Female,1744,75150,Upper Middle Class
+7,Chevrolet,82,Female,1618,24847,Rich
+6,BMW,45,Female,1710,29263,Middle Class
+1,BMW,67,Female,1906,51675,Upper Middle Class
+8,Honda,84,Female,1510,21964,Upper Middle Class
+1,Toyota,36,Male,1355,11623,Rich
+8,BMW,22,Male,1307,78019,Upper Middle Class
+8,BMW,31,Male,655,46932,Middle Class
+6,Chevrolet,62,Female,619,15437,Rich
+10,Chevrolet,92,Female,626,20790,Upper Middle Class
+6,BMW,54,Female,1352,90953,Middle Class
+2,Honda,63,Female,517,76522,Rich
+1,BMW,85,Male,1382,67086,Upper Middle Class
+10,Toyota,91,Female,1306,68284,Middle Class
+4,BMW,36,Male,639,86330,Upper Middle Class
+6,Chevrolet,75,Female,1904,33531,Upper Middle Class
+4,Toyota,34,Male,1735,46272,Rich
+5,Toyota,75,Female,1671,45804,Upper Middle Class
+3,Toyota,44,Female,1428,38918,Rich
+6,Honda,93,Male,1522,56528,Upper Middle Class
+3,Toyota,58,Female,769,10152,Rich
+1,BMW,37,Female,682,61573,Rich
+3,Toyota,29,Female,924,82317,Upper Middle Class
+2,Chevrolet,47,Female,1397,42638,Upper Middle Class
+7,BMW,78,Male,662,82992,Upper Middle Class
+8,BMW,57,Female,1079,70597,Rich
+2,Honda,26,Male,1480,45269,Upper Middle Class
+10,Toyota,97,Male,1114,21312,Upper Middle Class
+6,BMW,34,Male,1161,22604,Upper Middle Class
+9,Toyota,88,Male,983,80891,Upper Middle Class
+8,Honda,48,Female,1126,41282,Upper Middle Class
+3,Honda,57,Male,749,75252,Middle Class
+7,Toyota,60,Female,1461,88130,Middle Class
+2,BMW,48,Female,643,75425,Rich
+3,BMW,68,Male,638,37908,Middle Class
+10,Honda,47,Female,1526,62231,Middle Class
+7,BMW,97,Female,833,61863,Rich
+2,Chevrolet,49,Female,905,77016,Middle Class
+8,Honda,84,Male,1097,18441,Upper Middle Class
+4,Honda,85,Female,774,17986,Middle Class
+1,BMW,74,Male,1479,16990,Middle Class
+4,Chevrolet,89,Male,644,36742,Middle Class
+3,Chevrolet,83,Male,1686,76374,Upper Middle Class
+1,BMW,87,Female,518,90004,Rich
+8,BMW,96,Female,1922,38302,Middle Class
+4,Honda,89,Female,1496,21557,Middle Class
+6,Chevrolet,92,Female,1823,90053,Rich
+7,BMW,85,Male,1942,70874,Rich
+9,BMW,90,Female,1640,34765,Middle Class
+6,Toyota,50,Male,1829,88721,Rich
+3,Chevrolet,65,Male,1768,44515,Middle Class
+7,Chevrolet,99,Male,1668,44882,Rich
+9,Toyota,76,Male,788,15136,Middle Class
+5,BMW,78,Female,1321,64529,Middle Class
+8,BMW,73,Female,1733,47135,Middle Class
+2,Honda,30,Male,701,41962,Upper Middle Class
+2,Honda,88,Male,1626,31521,Rich
+9,BMW,60,Male,1749,19436,Middle Class
+2,BMW,37,Female,1181,49185,Middle Class
+9,BMW,76,Male,1721,30670,Rich
+2,Honda,24,Female,1968,82734,Rich
+5,Toyota,100,Female,746,86182,Rich
+2,Toyota,65,Male,1479,57612,Rich
+6,Chevrolet,26,Female,627,73017,Rich
+5,Honda,74,Female,1044,36759,Upper Middle Class
+7,Honda,65,Female,512,21269,Upper Middle Class
+9,Honda,95,Male,662,58734,Rich
+2,Toyota,84,Male,1937,31753,Rich
+3,Honda,69,Female,1946,29971,Middle Class
+9,Toyota,47,Male,506,21001,Middle Class
+5,Honda,45,Male,610,91675,Upper Middle Class
+9,Honda,54,Male,1201,50861,Rich
+5,Toyota,25,Female,1752,77649,Upper Middle Class
+7,BMW,68,Male,1470,60931,Middle Class
+1,Honda,42,Female,1034,99233,Rich
+8,BMW,74,Female,1359,62978,Middle Class
+10,Honda,26,Male,983,93239,Middle Class
+6,BMW,42,Male,900,32306,Rich
+8,Chevrolet,97,Female,1366,19856,Rich
+3,Chevrolet,84,Male,660,95952,Rich
+7,BMW,50,Male,1519,36008,Rich
+9,BMW,68,Male,1559,79811,Middle Class
+3,Chevrolet,86,Female,508,41424,Upper Middle Class
+5,Toyota,46,Female,756,17851,Rich
+5,BMW,90,Female,559,71871,Rich
+2,Toyota,81,Male,1542,79955,Rich
+10,BMW,43,Male,524,37280,Rich
+8,Toyota,99,Male,695,49997,Upper Middle Class
+5,BMW,28,Male,542,75296,Upper Middle Class
+5,Toyota,99,Male,1453,24684,Middle Class
+5,Chevrolet,26,Female,957,65109,Rich
+10,Chevrolet,47,Female,1479,67630,Rich
+10,BMW,63,Male,1910,97671,Upper Middle Class
+4,Toyota,90,Female,958,24032,Middle Class
+2,Honda,20,Male,1174,11357,Middle Class
+4,Chevrolet,35,Male,1306,95776,Middle Class
+7,Toyota,55,Female,1372,50664,Middle Class
+9,BMW,64,Female,1164,85091,Middle Class
+1,Chevrolet,68,Female,1668,72689,Upper Middle Class
+8,Toyota,81,Female,1087,43335,Upper Middle Class
+5,Honda,98,Male,1779,12467,Upper Middle Class
+10,Toyota,69,Male,979,10934,Upper Middle Class
+5,BMW,49,Female,1997,41418,Middle Class
+6,Toyota,94,Male,1255,78450,Rich
+10,BMW,74,Male,1587,48244,Rich
+8,Toyota,30,Male,1965,97454,Middle Class
+4,Honda,95,Male,1794,25524,Upper Middle Class
+2,BMW,98,Female,1264,32660,Rich
+10,BMW,32,Female,1734,57003,Upper Middle Class
+5,Toyota,65,Female,1001,94341,Middle Class
+5,Toyota,34,Male,1017,42168,Upper Middle Class
+9,Toyota,38,Male,589,42667,Upper Middle Class
+4,BMW,55,Female,1650,89103,Middle Class
+1,BMW,97,Male,874,69511,Middle Class
+5,Toyota,26,Male,1891,12202,Middle Class
+2,Toyota,54,Male,1693,25619,Rich
+1,Honda,58,Female,750,11125,Middle Class
+4,Chevrolet,44,Male,506,23731,Rich
+2,Chevrolet,96,Female,1553,74736,Rich
+5,Chevrolet,25,Male,921,69752,Middle Class
+9,Toyota,52,Female,1262,20120,Middle Class
+8,Chevrolet,41,Female,1521,48617,Rich
+10,Chevrolet,89,Female,1140,29913,Upper Middle Class
+8,Honda,88,Female,1951,48894,Upper Middle Class
+1,Chevrolet,37,Male,1937,97987,Middle Class
+7,Chevrolet,93,Male,722,72388,Upper Middle Class
+5,Honda,82,Female,813,65912,Rich
+6,Toyota,81,Female,1981,61750,Upper Middle Class
+7,BMW,100,Female,1678,39735,Rich
+4,BMW,39,Male,1023,55137,Upper Middle Class
+6,Honda,47,Female,1857,30007,Upper Middle Class
+2,Chevrolet,63,Female,1378,67994,Rich
+7,Honda,92,Female,531,91057,Middle Class
+10,Honda,60,Female,1318,52537,Rich
+9,Honda,41,Female,1423,92199,Rich
+6,Chevrolet,28,Female,1333,23477,Upper Middle Class
+8,Toyota,39,Male,749,85663,Upper Middle Class
+8,Chevrolet,19,Male,662,92643,Upper Middle Class
+9,Toyota,33,Male,996,90847,Middle Class
+8,Chevrolet,84,Male,1077,44750,Upper Middle Class
+10,Honda,36,Male,879,38702,Upper Middle Class
+10,Toyota,53,Male,1245,28000,Upper Middle Class
+7,BMW,88,Male,1442,29583,Upper Middle Class
+3,BMW,73,Male,1121,76537,Upper Middle Class
+3,BMW,30,Female,992,12944,Middle Class
+3,Toyota,51,Female,548,55465,Upper Middle Class
+10,Chevrolet,42,Male,1993,99921,Upper Middle Class
+4,Honda,61,Male,1215,55455,Middle Class
+6,Chevrolet,71,Female,1360,64312,Upper Middle Class
+10,Toyota,62,Female,755,58887,Upper Middle Class
+4,BMW,79,Male,875,92445,Upper Middle Class
+8,Chevrolet,82,Female,1660,94149,Middle Class
+10,BMW,94,Female,1537,63451,Rich
+1,Toyota,86,Male,1540,34364,Rich
+10,Toyota,68,Male,1910,14182,Middle Class
+3,Toyota,93,Male,1585,62391,Upper Middle Class
+6,Chevrolet,26,Female,1896,14235,Middle Class
+3,Honda,30,Male,1561,68491,Upper Middle Class
+2,Chevrolet,55,Female,1727,65860,Middle Class
+1,Honda,45,Female,1977,75458,Rich
+9,Chevrolet,25,Male,1938,60647,Rich
+10,BMW,29,Female,1488,68935,Middle Class
+7,Chevrolet,26,Female,1776,85146,Upper Middle Class
+5,BMW,32,Male,927,85676,Upper Middle Class
+6,Chevrolet,100,Female,1197,23418,Middle Class
+7,Chevrolet,79,Male,710,11627,Rich
+1,Toyota,57,Male,1093,24307,Middle Class
+8,Chevrolet,91,Male,1417,29604,Rich
+7,Chevrolet,33,Female,1590,27213,Middle Class
+2,Toyota,32,Female,1289,71601,Upper Middle Class
+2,Chevrolet,79,Female,1408,91309,Middle Class
+7,Chevrolet,18,Female,1270,17495,Middle Class
+5,Toyota,91,Male,1003,88265,Upper Middle Class
+1,Toyota,57,Male,1046,72543,Upper Middle Class
+9,BMW,32,Male,1053,33832,Rich
+5,BMW,58,Female,1622,64131,Middle Class
+4,BMW,34,Female,1108,17339,Upper Middle Class
+6,BMW,99,Female,530,29699,Upper Middle Class
+8,Chevrolet,76,Female,1127,82480,Upper Middle Class
+2,BMW,34,Female,1573,25549,Upper Middle Class
+9,Toyota,60,Female,1809,83342,Upper Middle Class
+5,BMW,75,Female,955,74034,Upper Middle Class
+5,Chevrolet,40,Male,1993,12388,Rich
+2,BMW,82,Male,1727,44340,Upper Middle Class
+9,BMW,65,Female,1225,13688,Rich
+5,BMW,98,Female,1066,97734,Upper Middle Class
+5,Honda,37,Male,1651,88645,Middle Class
+10,Toyota,37,Male,757,13707,Upper Middle Class
+5,Toyota,40,Female,1530,80351,Middle Class
+10,Toyota,57,Male,1724,87033,Middle Class
+8,Honda,89,Female,917,27338,Middle Class
+4,Toyota,48,Male,1040,83582,Upper Middle Class
+9,BMW,68,Male,1768,30547,Upper Middle Class
+10,Chevrolet,79,Female,1193,52087,Middle Class
+5,Toyota,74,Female,601,47605,Upper Middle Class
+3,Toyota,92,Female,1409,48095,Middle Class
+5,BMW,43,Male,1608,21670,Upper Middle Class
+5,Chevrolet,100,Female,1842,69317,Rich
+4,Honda,49,Female,1891,44774,Upper Middle Class
+1,Toyota,24,Male,664,34147,Rich
+6,Toyota,52,Male,1133,88166,Upper Middle Class
+4,BMW,69,Female,1204,45436,Rich
+8,Chevrolet,42,Female,1406,98600,Rich
+8,Chevrolet,64,Male,814,32546,Upper Middle Class
+6,BMW,53,Female,844,91520,Rich
+2,BMW,24,Female,923,66059,Middle Class
+5,Honda,97,Male,1569,76990,Rich
+4,Toyota,87,Male,1495,34112,Upper Middle Class
+3,Chevrolet,84,Female,1884,22475,Middle Class
+8,Toyota,65,Female,1966,52895,Upper Middle Class
+7,BMW,91,Female,1167,96492,Rich
+5,Toyota,63,Male,1105,75366,Middle Class
+8,Honda,57,Female,1083,16327,Middle Class
+7,BMW,32,Male,1281,49759,Upper Middle Class
+2,Toyota,67,Female,1877,77400,Upper Middle Class
+5,Chevrolet,26,Female,1610,86341,Middle Class
+8,Toyota,56,Female,1566,95855,Upper Middle Class
+7,BMW,48,Female,1584,38236,Rich
+10,Toyota,20,Male,879,79739,Upper Middle Class
+6,BMW,66,Male,1521,53780,Rich
+1,BMW,26,Female,1756,72752,Upper Middle Class
+8,BMW,19,Female,1740,35491,Upper Middle Class
+1,Chevrolet,48,Female,1723,21771,Upper Middle Class
+2,Chevrolet,96,Male,1948,48814,Rich
+5,Honda,44,Female,1728,94665,Middle Class
+3,Chevrolet,88,Female,1941,66896,Rich
+9,Chevrolet,92,Female,1803,16256,Upper Middle Class
+6,Honda,94,Female,904,18989,Upper Middle Class
+4,Honda,37,Male,743,81966,Rich
+4,Chevrolet,18,Female,967,16461,Rich
+8,BMW,39,Female,1741,28611,Middle Class
+10,Chevrolet,72,Male,1722,11756,Upper Middle Class
+7,Chevrolet,28,Female,1105,70879,Middle Class
+8,Honda,99,Female,507,66753,Middle Class
+7,Honda,79,Female,1125,57135,Rich
+8,Chevrolet,34,Female,1713,20937,Middle Class
+4,Chevrolet,52,Male,1867,83368,Upper Middle Class
+8,BMW,46,Male,1396,53365,Rich
+5,Toyota,87,Female,1079,11676,Upper Middle Class
+2,BMW,25,Male,1854,23673,Rich
+7,BMW,43,Female,1045,53966,Rich
+4,BMW,99,Female,1747,70170,Rich
+4,Toyota,52,Male,1463,23107,Upper Middle Class
+2,Honda,48,Male,1719,50665,Middle Class
+2,Chevrolet,20,Female,1198,33708,Rich
+4,Chevrolet,90,Female,990,52720,Middle Class
+5,Toyota,87,Male,1407,98190,Rich
+4,Honda,83,Male,1679,27109,Middle Class
+5,Toyota,96,Male,952,90105,Rich
+9,Chevrolet,51,Male,565,90086,Rich
+8,Toyota,36,Male,1738,68073,Rich
+9,BMW,94,Male,1248,25998,Middle Class
+5,Toyota,39,Female,1448,63034,Upper Middle Class
+10,Toyota,98,Female,1852,61666,Rich
+10,BMW,85,Female,1087,11441,Middle Class
+4,Honda,88,Male,1642,92152,Rich
+1,Chevrolet,67,Male,1096,48497,Upper Middle Class
+4,Honda,27,Female,1625,77484,Rich
+9,BMW,57,Male,574,84471,Rich
+4,BMW,67,Male,1041,14244,Rich
+1,Honda,66,Female,1991,52385,Middle Class
+3,Honda,75,Male,1519,26711,Rich
+2,Chevrolet,18,Female,935,11774,Upper Middle Class
+10,Chevrolet,79,Female,511,53272,Rich
+10,Chevrolet,21,Female,1829,77537,Rich
+9,Toyota,20,Male,1550,84453,Middle Class
+8,Chevrolet,72,Male,1049,10141,Middle Class
+2,Toyota,79,Male,662,12747,Upper Middle Class
+7,Toyota,97,Female,1733,11107,Middle Class
+5,Toyota,66,Female,654,99642,Rich
+8,Chevrolet,36,Male,1966,22230,Rich
+3,Honda,43,Female,1078,68688,Rich
+4,Chevrolet,88,Male,1483,37330,Rich
+2,Chevrolet,33,Male,1760,55270,Upper Middle Class
+2,Toyota,47,Female,1620,68562,Middle Class
+1,Chevrolet,33,Female,1842,44980,Rich
+1,Toyota,93,Male,1846,31864,Rich
+4,Toyota,54,Male,639,29425,Rich
+3,Toyota,92,Female,1520,97594,Rich
+5,Chevrolet,93,Male,1420,99907,Middle Class
+1,BMW,97,Female,960,24428,Middle Class
+6,Toyota,70,Female,1836,80114,Upper Middle Class
+5,Honda,75,Male,1265,22980,Rich
+5,BMW,99,Male,530,59192,Middle Class
+5,Honda,99,Male,1739,70826,Rich
+8,Toyota,38,Male,1500,41202,Upper Middle Class
+1,BMW,44,Female,1189,18321,Rich
+9,Honda,81,Female,1549,38188,Upper Middle Class
+4,BMW,86,Female,817,79421,Middle Class
+3,Honda,61,Male,1007,48877,Middle Class
+9,Chevrolet,57,Male,989,59958,Middle Class
+10,BMW,51,Male,1739,42721,Middle Class
+9,BMW,61,Female,1556,65681,Upper Middle Class
+5,BMW,73,Male,1567,40564,Middle Class
+3,Chevrolet,45,Male,1872,53356,Rich
+2,Honda,22,Female,505,52546,Middle Class
+6,Honda,46,Male,903,41938,Upper Middle Class
+4,Honda,41,Male,1496,55736,Rich
+8,BMW,47,Female,1486,64081,Rich
+3,Honda,21,Male,1632,88127,Upper Middle Class
+1,Honda,25,Male,612,98662,Middle Class
+6,BMW,89,Male,1959,87176,Upper Middle Class
+1,Chevrolet,36,Male,775,21421,Rich
+8,Chevrolet,80,Male,984,17417,Rich
+9,Chevrolet,41,Male,950,37001,Rich
+4,Toyota,63,Female,617,30744,Middle Class
+3,Toyota,38,Male,1200,19806,Rich
+1,BMW,51,Male,1574,17272,Rich
+4,Chevrolet,51,Male,1031,64252,Middle Class
+4,Chevrolet,51,Female,1593,96196,Middle Class
+10,BMW,74,Female,1468,52170,Upper Middle Class
+10,Chevrolet,37,Female,606,47449,Upper Middle Class
+8,Chevrolet,55,Female,1765,46071,Rich
+3,BMW,73,Male,1566,93979,Upper Middle Class
+7,Honda,42,Male,720,90697,Upper Middle Class
+10,Toyota,92,Female,1702,74497,Upper Middle Class
+5,Toyota,75,Female,1743,20996,Rich
+3,Honda,68,Female,642,67073,Middle Class
+8,BMW,89,Female,644,96752,Rich
+5,Toyota,51,Male,941,45830,Middle Class
+5,Honda,57,Female,1360,44772,Upper Middle Class
+1,Chevrolet,65,Male,1740,93831,Upper Middle Class
+8,Toyota,67,Female,712,99751,Middle Class
+8,Honda,21,Male,1556,98731,Upper Middle Class
+5,BMW,45,Male,1554,64029,Middle Class
+9,Chevrolet,79,Female,603,81620,Upper Middle Class
+6,Honda,58,Female,1485,63551,Rich
+6,Chevrolet,79,Male,1826,97708,Middle Class
+8,BMW,62,Male,1492,25271,Middle Class
+1,Toyota,41,Female,1301,15195,Upper Middle Class
+2,BMW,48,Male,548,96757,Rich
+4,Toyota,45,Male,709,31180,Upper Middle Class
+7,BMW,96,Female,1636,80896,Middle Class
+5,Toyota,30,Female,1246,49212,Upper Middle Class
+7,Toyota,70,Male,1312,96311,Rich
+3,Honda,22,Male,801,27496,Middle Class
+4,Honda,90,Male,907,82859,Rich
+1,Honda,96,Female,766,11590,Middle Class
+7,Toyota,33,Female,693,34880,Rich
+10,Honda,99,Female,1864,81969,Middle Class
+3,Chevrolet,92,Female,747,59513,Middle Class
+10,Chevrolet,47,Female,1871,66619,Upper Middle Class
+4,BMW,72,Male,744,12646,Rich
+2,Toyota,24,Male,1893,62725,Middle Class
+6,Chevrolet,100,Female,1668,45805,Rich
+10,Toyota,45,Female,1435,31174,Middle Class
+6,Honda,23,Female,1913,28533,Rich
+10,BMW,55,Male,772,42022,Middle Class
+5,Toyota,57,Female,1247,25985,Upper Middle Class
+6,Chevrolet,25,Female,758,58132,Rich
+2,Toyota,26,Female,1114,58002,Upper Middle Class
+4,Toyota,89,Male,1748,19444,Rich
+9,BMW,85,Male,1865,54586,Upper Middle Class
+3,Honda,59,Female,1434,99538,Upper Middle Class
+3,Chevrolet,60,Female,893,22255,Upper Middle Class
+9,Toyota,99,Male,1109,17779,Middle Class
+6,Toyota,54,Male,1285,19349,Upper Middle Class
+8,Chevrolet,78,Female,534,72919,Upper Middle Class
+1,Toyota,58,Male,713,62773,Upper Middle Class
+5,Toyota,41,Female,968,95888,Upper Middle Class
+9,Toyota,85,Male,1127,44908,Upper Middle Class
+2,Chevrolet,74,Female,1178,33702,Rich
+8,Toyota,85,Male,549,39777,Rich
+1,Honda,44,Male,808,77082,Middle Class
+3,BMW,67,Male,1074,33910,Rich
+10,Chevrolet,82,Female,1104,46292,Middle Class
+6,BMW,23,Female,1623,53681,Upper Middle Class
+10,BMW,21,Female,1950,33197,Middle Class
+8,BMW,65,Female,512,44716,Rich
+7,Honda,32,Male,591,48160,Middle Class
+7,Toyota,86,Male,1233,10692,Middle Class
+8,Chevrolet,41,Female,990,27451,Rich
+3,Toyota,49,Male,1038,98102,Upper Middle Class
+3,BMW,52,Female,1872,69389,Middle Class
+8,Toyota,79,Female,1328,43967,Upper Middle Class
+7,Chevrolet,24,Male,1976,74272,Rich
+10,BMW,67,Female,1079,82442,Upper Middle Class
+1,Honda,83,Male,1881,44886,Upper Middle Class
+9,Toyota,81,Male,1104,30580,Middle Class
+8,Chevrolet,27,Female,1926,13820,Middle Class
+7,Honda,49,Male,1499,72831,Upper Middle Class
+5,Toyota,29,Male,1822,27378,Middle Class
+5,Toyota,38,Male,1857,89582,Upper Middle Class
+5,Chevrolet,71,Female,1356,50291,Upper Middle Class
+7,Honda,26,Male,1500,61823,Middle Class
+5,Chevrolet,51,Female,1936,65065,Upper Middle Class
+9,Chevrolet,25,Female,1332,64124,Middle Class
+2,Honda,33,Male,1421,52836,Upper Middle Class
+9,Honda,90,Female,1802,58661,Upper Middle Class
+10,Toyota,75,Male,1114,88897,Rich
+7,Chevrolet,84,Male,896,51405,Middle Class
+9,BMW,20,Male,794,69580,Rich
+10,Chevrolet,32,Male,1108,58754,Rich
+8,Toyota,25,Male,777,17777,Rich
+10,Honda,99,Male,1977,87656,Upper Middle Class
+10,Honda,43,Female,596,54243,Upper Middle Class
+10,Chevrolet,56,Female,691,94592,Rich
+3,BMW,84,Male,789,95329,Middle Class
+1,Chevrolet,43,Female,1850,21317,Rich
+7,Toyota,72,Male,739,25857,Middle Class
+9,BMW,63,Female,508,84844,Upper Middle Class
+3,Toyota,23,Female,1844,28737,Upper Middle Class
+6,Honda,74,Male,1482,32944,Middle Class
+4,Honda,86,Male,1048,92234,Upper Middle Class
+1,Honda,33,Male,1787,83211,Rich
+3,Toyota,73,Male,1831,77162,Rich
+5,Honda,36,Female,1314,80295,Upper Middle Class
+7,Honda,51,Female,1018,87324,Rich
+8,Honda,94,Male,1357,27606,Rich
+10,Toyota,42,Male,1929,32431,Middle Class
+8,Toyota,80,Male,1293,68473,Rich
+10,Chevrolet,20,Female,1621,76440,Upper Middle Class
+3,BMW,32,Male,1924,20025,Upper Middle Class
+8,Toyota,99,Female,1135,61240,Rich
+5,Honda,94,Female,1247,68405,Upper Middle Class
+10,Honda,45,Male,1438,56261,Middle Class
+4,BMW,72,Female,557,47950,Rich
+5,Toyota,37,Female,1763,23553,Upper Middle Class
+3,Toyota,61,Male,683,23029,Upper Middle Class
+4,BMW,70,Female,865,98657,Upper Middle Class
+10,Chevrolet,42,Male,640,58720,Middle Class
+10,Toyota,61,Female,1507,18777,Middle Class
+1,Toyota,41,Female,1073,99014,Rich
+4,Toyota,52,Female,1986,80757,Upper Middle Class
+1,Honda,92,Female,1993,71716,Middle Class
+7,Toyota,96,Female,1519,31028,Middle Class
+6,Toyota,70,Male,1004,28090,Upper Middle Class
+10,Honda,76,Male,1507,59184,Middle Class
+5,BMW,59,Male,975,75500,Rich
+2,Chevrolet,67,Male,583,95748,Middle Class
+7,BMW,93,Male,1051,88937,Middle Class
+6,BMW,54,Male,1015,98198,Middle Class
+1,BMW,49,Female,1059,74704,Upper Middle Class
+7,BMW,37,Female,1032,80375,Upper Middle Class
+9,Honda,28,Female,1083,35958,Rich
+6,Toyota,20,Male,1577,69048,Upper Middle Class
+4,Toyota,94,Female,1726,62173,Upper Middle Class
+9,Chevrolet,33,Male,674,81792,Middle Class
+3,Chevrolet,38,Male,1455,40908,Rich
+7,BMW,44,Female,1536,71559,Rich
+7,BMW,60,Male,629,23050,Rich
+2,BMW,21,Male,1129,70220,Upper Middle Class
+10,BMW,27,Male,1136,99823,Middle Class
+3,Honda,27,Male,941,21342,Upper Middle Class
+5,Toyota,85,Male,1640,11334,Upper Middle Class
+1,Toyota,57,Female,1118,93772,Upper Middle Class
+4,BMW,25,Male,1839,44935,Rich
+8,BMW,31,Male,853,92589,Rich
+2,BMW,96,Male,1011,25888,Rich
+2,BMW,92,Female,803,82543,Middle Class
+7,Chevrolet,57,Female,1230,88891,Rich
+3,Honda,99,Female,1011,10522,Middle Class
+10,Chevrolet,94,Female,1769,12409,Middle Class
+1,Chevrolet,97,Male,933,62876,Rich
+8,Honda,47,Male,990,49667,Middle Class
+2,Chevrolet,28,Female,967,27066,Rich
+6,Chevrolet,88,Male,1911,22774,Upper Middle Class
+10,Honda,26,Female,1297,39687,Upper Middle Class
+8,BMW,32,Female,700,78211,Middle Class
+7,Chevrolet,79,Female,1436,64469,Middle Class
+8,Chevrolet,50,Male,1977,90035,Upper Middle Class
+3,Toyota,33,Male,1365,94351,Middle Class
+4,BMW,53,Female,1957,13246,Upper Middle Class
+7,BMW,82,Male,1583,45473,Rich
+8,Toyota,34,Male,1770,40400,Middle Class
+3,Toyota,89,Male,1503,43972,Rich
+3,Chevrolet,78,Male,803,86860,Upper Middle Class
+10,BMW,89,Female,1035,28128,Rich
+4,Toyota,23,Male,854,12963,Upper Middle Class
+7,Chevrolet,85,Male,748,40337,Middle Class
+4,Chevrolet,39,Male,656,42475,Rich
+4,BMW,34,Female,747,19475,Upper Middle Class
+5,Chevrolet,43,Male,1489,88212,Upper Middle Class
+4,Toyota,28,Female,1624,54984,Middle Class
+5,Honda,38,Male,1188,40680,Rich
+4,Chevrolet,45,Female,1174,53706,Middle Class
+4,Chevrolet,49,Female,610,14344,Upper Middle Class
+8,Honda,41,Male,1831,70356,Upper Middle Class
+2,Chevrolet,99,Female,885,50258,Middle Class
+9,BMW,41,Male,1763,93757,Middle Class
+5,BMW,75,Male,1150,91055,Middle Class
+8,Honda,42,Male,1631,73041,Upper Middle Class
+6,Chevrolet,59,Male,1973,25571,Upper Middle Class
+1,BMW,54,Female,1776,60119,Middle Class
+6,Chevrolet,22,Male,1319,21868,Middle Class
+10,BMW,90,Female,1501,53812,Rich
+7,BMW,71,Female,1298,27957,Middle Class
+5,BMW,43,Female,700,26233,Rich
+7,Chevrolet,30,Male,651,26433,Middle Class
+2,BMW,89,Female,615,51224,Rich
+2,Honda,88,Male,773,50201,Middle Class
+5,Chevrolet,89,Female,1995,88415,Upper Middle Class
+2,BMW,59,Male,1587,36895,Middle Class
+5,Honda,88,Male,558,36583,Rich
+4,Toyota,28,Male,1509,65682,Upper Middle Class
+5,Toyota,39,Female,1977,39128,Rich
+10,Honda,67,Male,826,31715,Upper Middle Class
+6,BMW,31,Female,636,74714,Middle Class
+8,Honda,97,Male,913,61891,Upper Middle Class
+4,Toyota,91,Male,621,59534,Upper Middle Class
+8,Toyota,90,Male,1746,83547,Upper Middle Class
+1,Honda,96,Female,1366,81020,Middle Class
+4,Toyota,98,Male,1814,67086,Middle Class
+2,Chevrolet,88,Female,1659,56074,Rich
+9,Honda,74,Female,1511,83890,Upper Middle Class
+10,Honda,56,Male,967,98999,Middle Class
+9,BMW,64,Female,1911,97297,Middle Class
+9,Chevrolet,85,Male,726,90906,Rich
+3,BMW,41,Female,1073,92544,Middle Class
+5,Toyota,45,Male,998,82141,Upper Middle Class
+10,Toyota,86,Female,1468,89606,Middle Class
+2,Honda,67,Male,1626,49816,Middle Class
+2,BMW,57,Male,1180,37958,Middle Class
+10,BMW,92,Male,1174,11151,Middle Class
+4,Chevrolet,39,Male,1793,42591,Middle Class
+1,Honda,18,Male,1568,56715,Upper Middle Class
+1,Honda,24,Female,1089,79034,Rich
+5,Chevrolet,24,Male,1074,28842,Upper Middle Class
+2,BMW,35,Male,997,52933,Rich
+7,BMW,63,Female,1629,87531,Rich
+4,Toyota,43,Female,1587,99640,Rich
+5,Toyota,43,Female,1188,84581,Middle Class
+1,Toyota,33,Female,1681,52357,Rich
+8,BMW,78,Female,1881,92824,Upper Middle Class
+3,Chevrolet,76,Male,1314,89558,Upper Middle Class
+9,Toyota,40,Female,1476,64305,Rich
+10,Toyota,65,Male,1872,47530,Upper Middle Class
+9,Honda,41,Male,1851,50602,Rich
+6,Honda,36,Male,530,46495,Upper Middle Class
+9,BMW,76,Female,938,97505,Upper Middle Class
+3,Honda,50,Male,924,29740,Rich
+2,BMW,46,Female,1695,37750,Middle Class
+4,Chevrolet,27,Male,1123,78119,Upper Middle Class
+4,BMW,63,Male,1178,94812,Upper Middle Class
+9,BMW,90,Female,793,97917,Upper Middle Class
+6,Toyota,34,Male,839,31788,Middle Class
+8,Chevrolet,40,Female,1498,91580,Middle Class
+6,BMW,91,Female,1029,86731,Upper Middle Class
+1,Honda,70,Male,1943,13089,Upper Middle Class
+2,Toyota,94,Female,1110,53625,Upper Middle Class
+1,Toyota,83,Male,1568,42985,Upper Middle Class
+2,Honda,61,Female,1618,59406,Middle Class
+7,Chevrolet,26,Female,1494,43359,Rich
+6,Honda,42,Female,773,40866,Upper Middle Class
+9,BMW,43,Male,1375,96962,Middle Class
+9,Chevrolet,55,Male,1840,79919,Rich
+7,Toyota,39,Female,943,96449,Upper Middle Class
+8,Chevrolet,94,Female,1027,91681,Middle Class
+8,Toyota,81,Male,1169,16650,Middle Class
+3,BMW,70,Male,1602,92082,Upper Middle Class
+6,Toyota,100,Female,1461,65895,Rich
+10,Honda,52,Male,650,84931,Upper Middle Class
+3,BMW,71,Female,1858,66129,Middle Class
+10,Chevrolet,91,Male,1150,12112,Upper Middle Class
+5,Chevrolet,27,Female,504,69359,Rich
+8,Honda,52,Female,1834,85962,Upper Middle Class
+10,Honda,77,Male,606,70132,Middle Class
+3,BMW,74,Male,1850,83876,Upper Middle Class
+3,Chevrolet,86,Male,913,71429,Upper Middle Class
+10,BMW,58,Male,1828,69289,Rich
+1,Toyota,49,Male,1746,96361,Upper Middle Class
