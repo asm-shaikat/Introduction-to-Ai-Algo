@@ -1,1 +1,4 @@
 1. Argmax is a function which gives the index of the greatest number in the given row or column and the row or column can be decided using axis attribute of argmax funcion. If we give axis=0 then it will give the index from columns and if we give axis=1 then it will give the index from rows.
+2. to_categorical function
+Converts a class vector (integers) to binary class matrix
+3. 
